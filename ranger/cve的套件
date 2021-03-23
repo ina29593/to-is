@@ -1,0 +1,9 @@
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  01:55 min
+[INFO] Finished at: 2021-03-23T01:26:14-04:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal on project ranger-storm-plugin: Could not resolve dependencies for project org.apache.ranger:ranger-storm-plugin:jar:2.1.0: Could not find artifact ring-cors:ring-cors:jar:0.1.5 in internal-repository (https://nexus.testesunbank.com.tw:8443/repository/maven/) -> [Help 1]
+[ERROR]
+
